@@ -27,7 +27,7 @@ source myenv/bin/activate
 ```
 * Change directory
 ```sh
-cd elastic_search
+cd Celery
 ```
 * Install all the dependencies:
 ```sh
