@@ -15,7 +15,7 @@ celery -A project_celery worker -l INFO
 ### Setup django:
 * Clone repository
 ```sh
-git clone https://github.com/ongraphpythondev/elastic_search.git
+git clone https://github.com/ongraphpythondev/celery.git
 ```
 * Create virtual environment
 ```sh
